@@ -1,2 +1,2 @@
 Shaun Is pretty cool.
-(Work In Progress}
+(Work In Progress)
