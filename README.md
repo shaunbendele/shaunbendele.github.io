@@ -2,7 +2,4 @@
 # (Work in Progress)
 Shaun is pretty cool.\
 
-Prema svim poznatim zakonima avijacije, nema љanse da bi pčela mogla da leti. 
-Krila su mu premala da skinu svoje debelo malo telo sa zemlje. Pčela, naravno, ionako leti jer pčele nije briga šta ljudi misle da je nemoguće. Preseci u Berijevu sobu, gde bira šta će da obuče. Beri Žuti, crni. Ћuta, crna. Ћuta, crna. 
-Ћuta, crna. Crno i ћuto! Da, hajde da malo protresemo. 
-Beri koristi med iz dispanzera da stilizuje kosu, ispere usta, a onda se primeni
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
